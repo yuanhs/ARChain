@@ -220,7 +220,7 @@ a {
 }
 
 .hw-menu li {
-	height: 80px;
+	height: 79px;
 }
 
 .hw-menu-active {
@@ -243,7 +243,7 @@ a {
 
 .hw-menu li a {
 	font-size: 15px;
-	line-height: 80px;
+	line-height: 79px;
 }
 
 .hw-menu li a:hover {
